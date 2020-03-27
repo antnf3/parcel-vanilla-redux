@@ -9,9 +9,10 @@ vanilla-redux with parcel
 3. local pc parcel-vanilla-redux 폴더에서 git init
 4. git remote add origin git@github.com:antnf3/parcel-vanilla-redux.git
 5. git pull origin master github소스 내려받기
-6. git add .
-7. git.commit -m "first init"
-8. git push origin push
+6. yarn init
+7. git add .
+8. git.commit -m "first init"
+9. git push origin push
 
 ## parcel 설치
 
@@ -34,3 +35,9 @@ C:\Users\antnf\AppData\Local\Yarn\bin
 
 2. windows환경변수에 위의 bin 경로를 등록해줍니다.
 3. 터미널을 재실행하면 정상적으로 패키지가 실행됩니다.
+
+## redux 설치
+
+```shell
+$ yarn add redux
+```

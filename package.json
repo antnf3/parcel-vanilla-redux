@@ -1,0 +1,15 @@
+{
+  "name": "parcel-vanilla-redux",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:antnf3/parcel-vanilla-redux.git",
+  "author": "antnf3 <antnf3@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel src/counter.html --target browser --port 3000 --open"
+  },
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "redux": "^4.0.5"
+  }
+}
