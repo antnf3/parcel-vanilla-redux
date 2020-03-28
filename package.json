@@ -6,7 +6,7 @@
   "author": "antnf3 <antnf3@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "parcel src/counter.html --target browser --port 3000 --open"
+    "dev": "parcel src/todo.html --target browser --port 3000 --open"
   },
   "dependencies": {
     "babel-polyfill": "^6.26.0",
