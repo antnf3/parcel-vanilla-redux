@@ -11,8 +11,8 @@ vanilla-redux with parcel
 5. git pull origin master github소스 내려받기
 6. yarn init
 7. git add .
-8. git.commit -m "first init"
-9. git push origin push
+8. git commit -m "first init"
+9. git push origin master
 
 ## parcel 설치
 
