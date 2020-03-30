@@ -2,6 +2,8 @@
 
 vanilla-redux with parcel
 
+> 이 프로젝트는 노마트코드의 **_초보자를 위한 리덕스 101_** 을 보고 create-react-app 이 아닌 parcel로 변경하여 따라한 내용입니다.
+
 ## 프로젝트 환경설정
 
 1. github repository 생성 parcel-vanilla-redux
