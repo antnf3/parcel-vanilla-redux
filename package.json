@@ -7,7 +7,7 @@
   "license": "MIT",
   "scripts": {
     "start": "parcel src/todo.html --target browser --port 3001 --open",
-    "build": "parcel build todo.html -d build --public-url ./"
+    "build": "parcel build src/todo.html -d build --public-url ./"
   },
   "dependencies": {
     "babel-polyfill": "^6.26.0",
